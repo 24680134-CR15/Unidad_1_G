@@ -192,7 +192,7 @@ Por otra parte, el estudio de la representación y el trazado de líneas y polí
 
 Finalmente, el análisis de las áreas de aplicación demostró que la graficación por computadora tiene un impacto significativo en diversos campos, tales como la medicina, el entretenimiento, la ingeniería y la realidad virtual, donde se utiliza para la visualización, simulación y análisis de información compleja. En conjunto, los contenidos de esta unidad proporcionan una base sólida para el estudio posterior de técnicas más avanzadas, al establecer los principios históricos, matemáticos y tecnológicos que hacen posible la generación y manipulación de gráficos digitales en la actualidad.
 
-## Referencias (Formato APA)
+## Referencias
 
 Autor desconocido. (2026). *Evolución y fundamentos de la computación gráfica* [Infografía]. Material proporcionado en la asignatura Graficación por Computadora, Unidad 1.
 
